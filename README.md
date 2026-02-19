@@ -8,11 +8,11 @@ I'm a **Software Engineer** who loves turning caffeine and curiosity into clean,
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Something New — e.g. Rust, WebAssembly, etc.]**
-- 💬 Ask me about **[Your Specialties — e.g. APIs, system design, React]**
-- ⚡ Fun fact: **[Something quirky about you!]**
-- 📫 Reach me at **[your@email.com]** or **[LinkedIn / Twitter handle]**
+- 🔭 Currently working on **[Karsa Bare]**
+- 🌱 Learning **[OpenGl , Kubernetes]**
+- 💬 Ask me about **[APIs, Opengl , Angular]**
+- ⚡ Fun fact: **[Curious and Chaotic]**
+- 📫 Reach me at **[32kiran.adarsha@gmail.com]**
 
 ---
 
