@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Adarsha 👋
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
@@ -27,9 +27,9 @@ I'm a **Software Engineer** who loves turning caffeine and curiosity into clean,
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-Angular-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
 
 **Tools & Platforms**
 
@@ -38,19 +38,7 @@ I'm a **Software Engineer** who loves turning caffeine and curiosity into clean,
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-> 🔧 *Swap out any badges above! Find more at [shields.io](https://shields.io)*
 
----
-
-## 🚀 Featured Projects
-
-| 🌟 Project | 💡 Description | 🔗 Link |
-|---|---|---|
-| **[Project One]** | A short, punchy description of what it does and why it's cool. | [Repo](#) |
-| **[Project Two]** | Another awesome thing you built — don't be shy! | [Repo](#) |
-| **[Project Three]** | Side project, open source contrib, or that thing you built at 2am. | [Repo](#) |
-
----
 
 ## 📊 GitHub Stats
 
@@ -60,13 +48,6 @@ I'm a **Software Engineer** who loves turning caffeine and curiosity into clean,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=32-Adarsha&theme=tokyonight&hide_border=true" />
 </p>
 
-> 🔁 *Replace `YOUR_USERNAME` with your actual GitHub username for live stats!*
-
----
-
-<p align="center">
-  <i>Thanks for stopping by! Now go build something awesome. 🚀</i>
-</p>
